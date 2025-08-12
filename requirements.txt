@@ -1,0 +1,14 @@
+streamlit
+streamlit-lottie
+python-docx
+requests
+langchain-groq
+pymongo
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+
